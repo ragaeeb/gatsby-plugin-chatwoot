@@ -18,19 +18,19 @@
     "chatwoot"
   ],
   "dependencies": {
-    "@babel/runtime": "7.14.0"
+    "@babel/runtime": "^7.16.0"
   },
   "devDependencies": {
-    "@babel/cli": "7.13.16",
-    "@babel/core": "7.14.0",
-    "babel-preset-gatsby-package": "1.4.0",
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "babel-preset-gatsby-package": "^2.0.0",
     "cross-env": "7.0.3"
   },
   "files": [
     "gatsby-*.js"
   ],
   "peerDependencies": {
-    "gatsby": ">= 3.4.2",
+    "gatsby": "^4.0.2",
     "react": ">= 17.0.2",
     "react-dom": ">= 17.0.2"
   },
